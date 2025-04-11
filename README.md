@@ -2,9 +2,9 @@
 Project Overview: 
 
 ## Data Sources:
-The dataset used for this analysis is a .XLSX file. Having
- Fields
- Records
+The dataset used for this analysis is a .csv file. Having
+ 20 Fields 
+ 10,700,80 Records
 
 ## Tools Used:
 Excel
