@@ -15,7 +15,9 @@ The dataset used for this analysis is a .csv file. Having
 ### Key Metrics:
 - 
 ### Filters Added:
-- 
+- Year
+- Gender
+  
 ### Category Filter: Enables filtering of financial data by specific categories like Marketing, Miscellaneous, Operations, Rent, and Salaries.
 Profit/Loss Status Filter: Allows selection between Profit, Loss, or All transactions.
 
