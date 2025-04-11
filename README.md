@@ -7,9 +7,9 @@ The dataset used for this analysis is a .csv file. Having
  - 10,700,80 Records
 
 ## Tools Used:
-Excel
-Pivot Table
-Slicer
+- Excel
+- Pivot Table
+- Slicer
 
 ## Below are the key point indicators:
 ### Key Metrics:
