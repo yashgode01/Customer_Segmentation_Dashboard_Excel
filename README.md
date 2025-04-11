@@ -19,13 +19,16 @@ The dataset used for this analysis is a .csv file. Having
   
 ### Key Metrics:
 - Total Sales by Gender and Year
-- 
+- Age Group by Rating
+- Insurance Coverage Amount by Year
+- Income Level Vs Total Sales
+- Marital Status By Sales
+- Customer Communication Perferance Time
+- Customer Profession By Income Vs Sales
+  
 ### Filters Added:
 - Year
 - Gender
-  
-### Category Filter: Enables filtering of financial data by specific categories like Marketing, Miscellaneous, Operations, Rent, and Salaries.
-Profit/Loss Status Filter: Allows selection between Profit, Loss, or All transactions.
 
 ## Conclusion:
 -
