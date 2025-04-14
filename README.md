@@ -1,5 +1,5 @@
 ## Table Of Contents
-Project Overview: 
+Project Overview: This Excel dashboard provides a clear and interactive view of customer segments based on key attributes such as demographics, purchase behavior, and engagement levels. It helps identify high-value customers, analyze segment performance, and support targeted marketing strategies through dynamic visuals, slicers, and pivot charts.
 
 ## Data Sources:
 The dataset used for this analysis is a .csv file. Having
